@@ -7,7 +7,7 @@ This project aims to detect emotions in real-time using OpenCV and DeepFace. By 
 4. Visualization: The program draws rectangles around detected faces and labels them with the predicted emotions.
 5. Real-Time Display: The processed frames are displayed in real-time, allowing users to observe emotion changes dynamically.
 
-##Dependencies:
-Python
-OpenCV
-DeepFace
+#Dependencies:
+- Python
+- OpenCV
+- DeepFace
