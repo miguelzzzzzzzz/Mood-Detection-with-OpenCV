@@ -11,3 +11,6 @@ This project aims to detect emotions in real-time using OpenCV and DeepFace. By 
 - Python
 - OpenCV
 - DeepFace
+
+Test:
+![image](https://github.com/miguelzzzzzzzz/Mood-Detection-with-OpenCV/assets/120352678/082f4137-fa10-43be-b8de-03bb44566b54)
